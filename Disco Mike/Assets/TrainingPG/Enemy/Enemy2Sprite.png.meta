@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: 7f3759bb4acae4745a330b01aeade555
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1981084748028316692
+    second: knight-run_0
+  - first:
+      213: -4355379913236289369
+    second: knight-run_1
+  - first:
+      213: 3389553552300917228
+    second: knight-run_2
+  - first:
+      213: -2425333350655566946
+    second: knight-run_3
+  - first:
+      213: -8146944719814145196
+    second: knight-run_4
+  - first:
+      213: -2720383050341733300
+    second: knight-run_5
+  - first:
+      213: -306585519646193518
+    second: knight-run_6
+  - first:
+      213: 75979964191070600
+    second: knight-run_7
+  - first:
+      213: 4094467289027655660
+    second: knight-run_8
+  - first:
+      213: 5754256336799790126
+    second: knight-run_9
+  - first:
+      213: -8867481593788317659
+    second: knight-run_10
+  - first:
+      213: 7169416100866491751
+    second: knight-run_11
+  - first:
+      213: 873142356019631331
+    second: knight-run_12
+  - first:
+      213: 1705571308035431850
+    second: knight-run_13
+  - first:
+      213: 4128849019550571079
+    second: knight-run_14
+  - first:
+      213: 6109287591819113619
+    second: knight-run_15
+  - first:
+      213: -8561126776762302778
+    second: knight-run_16
+  - first:
+      213: 8477784024519795140
+    second: knight-run_17
+  - first:
+      213: 8831655645821993435
+    second: knight-run_18
+  - first:
+      213: -1743324465145485612
+    second: knight-run_19
+  - first:
+      213: -2718221730466847035
+    second: knight-run_20
+  - first:
+      213: 1272751962885015717
+    second: knight-run_21
+  - first:
+      213: 5030657454269320960
+    second: knight-run_22
+  - first:
+      213: -931504365543364516
+    second: knight-run_23
+  - first:
+      213: 2317284186965419465
+    second: knight-run_24
+  - first:
+      213: 5212195978455097544
+    second: knight-run_25
+  - first:
+      213: -6627583759604545139
+    second: knight-run_26
+  - first:
+      213: -5578336119902505134
+    second: knight-run_27
+  - first:
+      213: -6445101520938211793
+    second: knight-run_28
+  - first:
+      213: 5177657598186955129
+    second: knight-run_29
+  - first:
+      213: 7431896778145933165
+    second: knight-run_30
+  - first:
+      213: 3768561206400328577
+    second: knight-run_31
+  - first:
+      213: -6996597117322275853
+    second: knight-run_32
+  - first:
+      213: -5472299269917652649
+    second: knight-run_33
+  - first:
+      213: 7557302234400483551
+    second: knight-run_34
+  - first:
+      213: -5469657315189812427
+    second: knight-run_35
+  - first:
+      213: -3939498534612640795
+    second: knight-run_36
+  - first:
+      213: -6681983501231879945
+    second: knight-run_37
+  - first:
+      213: 7234595799668063143
+    second: knight-run_38
+  - first:
+      213: 2422121595092319827
+    second: knight-run_39
+  - first:
+      213: -2085720253739925615
+    second: knight-run_40
+  - first:
+      213: 3555990870550279545
+    second: knight-run_41
+  - first:
+      213: 4487582968090477600
+    second: knight-run_42
+  - first:
+      213: 2238873819862923971
+    second: knight-run_43
+  - first:
+      213: 6371473868932664157
+    second: knight-run_44
+  - first:
+      213: 4921817599664546576
+    second: knight-run_45
+  - first:
+      213: -5362973209806242030
+    second: knight-run_46
+  - first:
+      213: -2975484125002298946
+    second: knight-run_47
+  - first:
+      213: 7860911296926382711
+    second: knight-run_48
+  - first:
+      213: -3977928035407710711
+    second: knight-run_49
+  - first:
+      213: 522080912415854330
+    second: knight-run_50
+  - first:
+      213: 8791630219417128749
+    second: knight-run_51
+  - first:
+      213: 237494696105766574
+    second: knight-run_52
+  - first:
+      213: 8209706652975844107
+    second: knight-run_53
+  - first:
+      213: 2991610942482985260
+    second: knight-run_54
+  - first:
+      213: -2097238597038922777
+    second: knight-run_55
+  - first:
+      213: 7140188420382846231
+    second: knight-run_56
+  - first:
+      213: 6860135132046933018
+    second: knight-run_57
+  - first:
+      213: -5475866531913683994
+    second: knight-run_58
+  - first:
+      213: 1181797595281885709
+    second: knight-run_59
+  - first:
+      213: 331792968507778024
+    second: knight-run_60
+  - first:
+      213: 3252810819232298575
+    second: knight-run_61
+  - first:
+      213: 2253722261276668863
+    second: knight-run_62
+  - first:
+      213: 4072845577475380734
+    second: knight-run_63
+  - first:
+      213: -5322765865629844115
+    second: knight-run_64
+  - first:
+      213: -1694960182786685701
+    second: knight-run_65
+  - first:
+      213: 3638813226157688946
+    second: knight-run_66
+  - first:
+      213: -8648542457156397388
+    second: knight-run_67
+  - first:
+      213: -4603416585731783369
+    second: knight-run_68
+  - first:
+      213: 6534450791694185676
+    second: knight-run_69
+  - first:
+      213: -3259022781637131014
+    second: knight-run_70
+  - first:
+      213: -1063008161631852291
+    second: knight-run_71
+  - first:
+      213: -4268826707520984406
+    second: knight-run_72
+  - first:
+      213: -7273977476049753774
+    second: knight-run_73
+  - first:
+      213: 4504407959014341126
+    second: knight-run_74
+  - first:
+      213: -7141301234434025236
+    second: knight-run_75
+  - first:
+      213: 6203854119707424436
+    second: knight-run_76
+  - first:
+      213: 4206349870756198112
+    second: knight-run_77
+  - first:
+      213: -5699335940468850685
+    second: knight-run_78
+  - first:
+      213: 2542174189463709370
+    second: knight-run_79
+  - first:
+      213: 2847237297102152142
+    second: knight-run_80
+  - first:
+      213: -7221826242855916531
+    second: knight-run_81
+  - first:
+      213: 6851206518057179775
+    second: knight-run_82
+  - first:
+      213: 6063772788408928446
+    second: knight-run_83
+  - first:
+      213: -7175997100662036110
+    second: knight-run_84
+  - first:
+      213: -210678723958772388
+    second: knight-run_85
+  - first:
+      213: -8858973025945706819
+    second: knight-run_86
+  - first:
+      213: -4389909133584350284
+    second: knight-run_87
+  - first:
+      213: 5154640132017431420
+    second: knight-run_88
+  - first:
+      213: -8275400307415170017
+    second: knight-run_89
+  - first:
+      213: -765428528532174038
+    second: knight-run_90
+  - first:
+      213: -1393303542972194468
+    second: knight-run_91
+  - first:
+      213: -4027760259261751237
+    second: knight-run_92
+  - first:
+      213: -6183552526098591742
+    second: knight-run_93
+  - first:
+      213: -117839280593174387
+    second: knight-run_94
+  - first:
+      213: -7982559761710787075
+    second: knight-run_95
+  - first:
+      213: 1808891144409880576
+    second: Enemy2Sprite_0
+  - first:
+      213: -6860214240848915167
+    second: Enemy2Sprite_1
+  - first:
+      213: 8960520309937565025
+    second: Enemy2Sprite_2
+  - first:
+      213: 6151951218952391214
+    second: Enemy2Sprite_3
+  - first:
+      213: -2928506769541934022
+    second: Enemy2Sprite_4
+  - first:
+      213: -1062598587052784080
+    second: Enemy2Sprite_5
+  - first:
+      213: 4497481772220175023
+    second: Enemy2Sprite_6
+  - first:
+      213: 3871877586659474185
+    second: Enemy2Sprite_7
+  - first:
+      213: -2927043758576940044
+    second: Enemy2Sprite_8
+  - first:
+      213: -1634013523411744035
+    second: Enemy2Sprite_9
+  - first:
+      213: -678380699251438120
+    second: Enemy2Sprite_10
+  - first:
+      213: -1184938829497709822
+    second: Enemy2Sprite_11
+  - first:
+      213: 4967922081125701423
+    second: Enemy2Sprite_0
+  - first:
+      213: 579188663121397051
+    second: Enemy2Sprite_1
+  - first:
+      213: 3919144187323291422
+    second: Enemy2Sprite_2
+  - first:
+      213: 3989940982076680902
+    second: Enemy2Sprite_3
+  - first:
+      213: -1309618795370590270
+    second: Enemy2Sprite_4
+  - first:
+      213: 8721809424211936213
+    second: Enemy2Sprite_5
+  - first:
+      213: -1504945598909584532
+    second: Enemy2Sprite_6
+  - first:
+      213: -4772646950047810357
+    second: Enemy2Sprite_7
+  - first:
+      213: 7120167752411239848
+    second: Enemy2Sprite_8
+  - first:
+      213: -5431718384589777106
+    second: Enemy2Sprite_9
+  - first:
+      213: -3327029664969334872
+    second: Enemy2Sprite_10
+  - first:
+      213: 4502551996798275402
+    second: Enemy2Sprite_11
+  - first:
+      213: -6460433342745504462
+    second: Enemy2Sprite_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy2Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 153
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5175387, y: 0.42984447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f271155cfca91f440800000000000000
+      internalID: 4967922081125701423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 94
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c84b3501b90800800000000000000
+      internalID: 579188663121397051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 99
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1711f4bfd8936630800000000000000
+      internalID: 3919144187323291422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 100
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca247ffe2e1f5730800000000000000
+      internalID: 3989940982076680902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 98
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc2cee4ac43dde0800000000000000
+      internalID: -1309618795370590270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 95
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d38ec016771a0970800000000000000
+      internalID: 8721809424211936213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 93
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be4ba83fb5d1be0800000000000000
+      internalID: -1504945598909584532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 94
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc7c00b2e624cdb0800000000000000
+      internalID: -4772646950047810357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 103
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5d9a7b8daefc260800000000000000
+      internalID: 7120167752411239848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 97
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27519e58e8ae94b0800000000000000
+      internalID: -5431718384589777106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 96
+        width: 153
+        height: 153
+      alignment: 9
+      pivot: {x: 0.4883068, y: 0.47076836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd056a52404d1d0800000000000000
+      internalID: -3327029664969334872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 97
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f03ef7f274c7e30800000000000000
+      internalID: 4502551996798275402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy2Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 98
+        width: 153
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23590968a1ee756a0800000000000000
+      internalID: -6460433342745504462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dc9f124b3f5827b48b1c1f121d10a48b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
